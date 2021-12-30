@@ -1,2 +1,2 @@
-# chpriyal.github.io
+# adabholkar.github.io
 Personal Website
