@@ -1,2 +1,2 @@
-# adabholkar.github.io
+# amoghdabholkar.github.io
 Personal Website
